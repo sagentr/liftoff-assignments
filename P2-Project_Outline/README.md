@@ -1,18 +1,27 @@
 # Project Outline
-For this assignment, you will submit a high-level outline of your project. This can, and likely will, change over time. In particular, your mentor will provide direction and feedback to help sharpen your ideas. So don't worry if you feel unsure about some aspects of the outline or if you have to change some things later.
 
-## Assignment Description
-[Project Outline Assignment](https://education.launchcode.org/liftoff/modules/assignments/project-outline)
-
-## Submission Instructions
 
 ### Overview
-Include overview here
+Brewd is the coffee web application every caffeine lover has been waiting for. Coffee is a beloved resource globally and has surpassed consumption of a combined 500 billion cups annually. Brewd is the place for the users who take pride in their habit and want to organize, celebrate, and watch their collection grow over time with like minded users from their community and beyond. Users will be able to create a profile that will allow them to catalog the details a coffee nerd wants to see: location, beverage name, bean type, source, roast, general taste, and presentation. The idea came around because I always love and appreciate latte art from my baristas, and enjoy snapping pictures of my steamy froth but nothing ever comes of them and wanted a space to expand the hobby. 
+
+
 ### Features
-Include Features here
+user create profile, user validation, delete profile
+create new posts, fill out graphic surveys to rate their experience, post pictures of cafe and coffee, any final comments.
+view entire catalog history of coffee check in's, remove check in, filter the search
+reward users with icons for achievements for continual usage of the app. 
+
 ### Technologies
-Include Technologies here
+angular
+javascript
+java
+html
+sass
+
 ### What I'll Have to Learn
-Include what you will need to learn here
+create user profiles that are repeatedly accessible
+create building feature that allows users to save their posts and access them
+use sass throughout the entire project
+
 ### Project Tracker
-Link to your Trello board here
+https://trello.com/b/YOWZ0gQN/unit3-2021-gabsquad
