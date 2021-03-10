@@ -25,3 +25,6 @@ use sass throughout the entire project
 
 ### Project Tracker
 https://trello.com/b/YOWZ0gQN/unit3-2021-gabsquad
+
+### Lowfi Wireframe
+https://jamboard.google.com/d/1Nb-vIU2evlQ1hy_rQS_t3Fs1uZbcDN8qaYsZXhTo-AU/edit?usp=sharing
